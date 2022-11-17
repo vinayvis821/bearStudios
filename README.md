@@ -12,7 +12,7 @@ To see images/video of the site in action, click on this [link](https://drive.go
 
 ### How to use the website
 
-Due to limited time, I was not able to deploy this react project to a web provider like Heroku. If requested, I would be able to complete this step and update this readme to the link of the website.
+Due to limited time, I was not able to deploy this react project to a web provider like Heroku.
 
 To run this website locally, clone the repository to your desktop. Open a terminal/powershell window and navigate to the directory (Node + npm must be installed).
 
