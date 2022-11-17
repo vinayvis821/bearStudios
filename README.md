@@ -4,7 +4,7 @@
 
 ### Supplement
 
-My supplement answers are located in the supplement folder inside this repo
+My supplement answers are located in the "Supplement" folder inside this repo. Click the file entitled "SUPPLEMENT.md"
 
 ### Images of the site
 
