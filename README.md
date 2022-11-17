@@ -8,9 +8,9 @@ Due to limited time, I was not able to deploy this react project to a web provid
 
 To run this website locally, clone the repository to your desktop. Open a terminal/powershell window and navigate to the directory (Node + npm must be installed).
 
-Run the command "npm install" to install all dependencies. Then run "npm run dev" to launch the website.
+Run the command `npm install` to install all dependencies. Then run `npm run dev` to launch the website.
 
-On a browser, enter "localhost:5173" in the browser to see the site
+On a browser, enter `localhost:5173` in the browser to see the site
 
 ### Images of the site
 

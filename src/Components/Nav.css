@@ -1,0 +1,65 @@
+/* Dark green: #09290d
+    Green brown: #566139
+    tan: #A89565
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-bar {
+  /* background-color: #a8956533; */
+  margin-top: 0;
+}
+
+.sub-bar {
+  margin-top: 0;
+  opacity: 1 !important;
+  height: 60px;
+}
+
+.selected {
+  text-decoration: none;
+  color: #566139;
+}
+
+.unselected {
+  color: black;
+  text-decoration: black;
+  transition: linear 0.75s;
+}
+
+.unselected:hover {
+  color: #566139;
+}
+
+.list li {
+  display: inline-block;
+  font-size: 30px;
+}
+
+.first {
+  float: left;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.last {
+  float: right;
+  margin-right: 50px;
+  margin-top: 20px;
+}
+
+li img {
+  position: fixed;
+  top: 0px;
+  left: 45%;
+  transition: linear 0.5s;
+  box-sizing: border-box;
+}
+
+li img:hover {
+  background-color: #566139;
+  border-radius: 100%;
+}
