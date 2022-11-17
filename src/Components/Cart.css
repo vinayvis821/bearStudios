@@ -1,0 +1,16 @@
+.cart {
+  margin-top: 100px;
+  color: black;
+  text-align: center;
+}
+
+.cart h1 {
+  margin-bottom: 40px;
+  color: #a89565 !important;
+  font-weight: 500 !important;
+  font-size: 40px;
+}
+
+.cart p {
+  font-size: 30px;
+}

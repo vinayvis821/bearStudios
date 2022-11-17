@@ -3,3 +3,9 @@
 #root {
   font-family: "Roboto Slab", serif;
 }
+
+.container {
+  margin-top: 150px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}

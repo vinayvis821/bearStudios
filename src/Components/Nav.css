@@ -11,6 +11,7 @@
 .nav-bar {
   /* background-color: #a8956533; */
   margin-top: 0;
+  z-index: 100;
 }
 
 .sub-bar {
@@ -22,12 +23,14 @@
 .selected {
   text-decoration: none;
   color: #566139;
+  z-index: 100;
 }
 
 .unselected {
   color: black;
   text-decoration: black;
   transition: linear 0.75s;
+  z-index: 100;
 }
 
 .unselected:hover {
@@ -52,14 +55,16 @@
 }
 
 li img {
-  position: fixed;
+  position: absolute;
   top: 0px;
   left: 45%;
   transition: linear 0.5s;
   box-sizing: border-box;
+  opacity: 1;
 }
 
 li img:hover {
   background-color: #566139;
   border-radius: 100%;
+  cursor: pointer;
 }
