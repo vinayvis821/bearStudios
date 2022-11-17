@@ -1,2 +1,17 @@
-# bearStudios
- Fall 2022 Tech Deliverable for Bear Studios Application
+# Fall 2022 Tech Deliverable
+
+## Vinay Viswanathan
+
+### How to use the website
+
+Due to limited time, I was not able to deploy this react project to a web provider like Heroku. If requested, I would be able to complete this step and update this readme to the link of the website.
+
+To run this website locally, clone the repository to your desktop. Open a terminal/powershell window and navigate to the directory (Node + npm must be installed).
+
+Run the command "npm install" to install all dependencies. Then run "npm run dev" to launch the website.
+
+On a browser, enter "localhost:5173" in the browser to see the site
+
+### Images of the site
+
+To see images/video of the site in action, click on this [link](#) to enter the google drive folder containing images/video of the site.
